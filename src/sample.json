@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "title" : "1917",
+        "director" : "Juanito",
+        "year" : "2020",
+        "rating" : "9.0"
+    },
+    {
+        "id": "2",
+        "title" : "Parasites",
+        "director" : "Coreanito",
+        "year" : "2020",
+        "rating" : "9.7"
+    }
+] 
